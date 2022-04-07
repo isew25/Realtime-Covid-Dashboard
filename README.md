@@ -11,4 +11,4 @@
 <img src="./assets/data.png" width="900">
 
 
-<img src="./assets/about.png" width="900">
+<img src="./assets/about1.png" width="900">
